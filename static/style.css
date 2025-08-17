@@ -91,3 +91,9 @@ body {
   margin: 5px;
   padding-top: 50px;
 }
+
+.pcnb-qr-code {
+  width: 150px;
+  height: 150px;
+  padding: auto;
+}
